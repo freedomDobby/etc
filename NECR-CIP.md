@@ -21,6 +21,8 @@
 | **CIP-010** | 구성 변경 및 취약점 관리 (Configuration Change & Vulnerability Management) |
 | **CIP-011** | 정보 보호 (Information Protection)                                   |
 
+식별 -> 보호 -> 대응 -> 복구 -> 개선 과정을 아우르는 전력 인프라 보안의 완전한 수명주기 규정 세트
+
 ## 4) 미국 전력·에너지 프로젝트 데이터 보안 규제의 3대 축
 ### 4-1) NECR-CIP
 
